@@ -31,8 +31,8 @@ const projects = [
     techStack: "Next.js • TypeScript • Tailwind",
     sorotan: ["Responsive Design", "Optimasi Performa", "UI Modern"],
     image: "/images/webporto.png",
-    href: "https://my-portfolio-beige-omega-87.vercel.app",
-    buttonLabel: "Kunjungi Website",
+    href: "https://github.com/langitara/PF_2",
+    buttonLabel: "Lihat di GitHub",
   },
 ]
 
