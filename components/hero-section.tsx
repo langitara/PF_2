@@ -83,7 +83,7 @@ export function HeroSection() {
               <a href="#kontak" className="bg-white/10 backdrop-blur-md border border-white/30 text-white rounded-full px-6 py-3 text-sm font-medium hover:bg-white/20 transition-colors">
                 Hubungi Saya
               </a>
-              <a href="/cv.pdf" download className="bg-white/10 backdrop-blur-md border border-white/30 text-white rounded-full px-6 py-3 text-sm font-medium hover:bg-white/20 transition-colors">
+              <a href="/CV_BaggazLangitRomdoni.pdf" download="CV_BaggazLangitRomdoni.pdf" className="bg-white/10 backdrop-blur-md border border-white/30 text-white rounded-full px-6 py-3 text-sm font-medium hover:bg-white/20 transition-colors">
                 Download CV
               </a>
             </div>

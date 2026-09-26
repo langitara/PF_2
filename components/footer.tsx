@@ -96,7 +96,7 @@ export function Footer() {
             <div>
               <h4 className="text-sm font-medium text-foreground mb-4 uppercase tracking-wider">Lainnya</h4>
               <ul className="space-y-3">
-                <li><Link href="/cv.pdf" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Download CV</Link></li>
+                <li><Link href="/CV_BaggazLangitRomdoni.pdf" download="CV_BaggazLangitRomdoni.pdf" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Download CV</Link></li>
                 <li><span className="text-sm text-muted-foreground">Jakarta, Indonesia</span></li>
               </ul>
             </div>
